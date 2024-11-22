@@ -30,7 +30,7 @@
 
 🎓 I am currently studying at FATEC SJC - Profº Jesen Vidal
 
-💼 I am currently working on the project [(repository link).](https://github.com/BuzzTech-API/API_ADS_4SEMESTRE_2024.1)
+💼 I am currently working on the project [(repository link).](https://github.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2)
 
 📫 How to reach me
 
